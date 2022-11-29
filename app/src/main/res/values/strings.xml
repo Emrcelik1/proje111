@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KitapDostum</string>
+    <string name="name_off_app" />
+    <string name="login" />
+    <string name="create_new_account" />
+    <string name="new_account">yeni hesap oluştur</string>
+    <string name="giri_yap">giriş yap</string>
+    <string name="giris_yap">giriş yap</string>
+</resources>
